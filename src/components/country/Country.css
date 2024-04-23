@@ -1,0 +1,12 @@
+.country{
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.flag-img{
+    width: 220px;
+}
+.visited{
+    background: teal;
+}
